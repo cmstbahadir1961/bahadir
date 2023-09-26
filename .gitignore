@@ -14,7 +14,7 @@ captures/
 .cxx/
 *.apk
 cmstbahadir.json
-
+cmstbahadir cmstbahadir cmstbahadir 
 # IntelliJ
 *.iml
 .idea/
