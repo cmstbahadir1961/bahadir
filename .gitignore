@@ -13,7 +13,7 @@ captures/
 .externalNativeBuild/
 .cxx/
 *.apk
-output.json
+cmstbahadir.json
 
 # IntelliJ
 *.iml
